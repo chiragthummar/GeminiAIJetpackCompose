@@ -2,9 +2,12 @@
 
 <p id="description">This project showcase a sample chat app made using Gemini AI And Jetpack Compose latest tech stack Like MVVM Clean Architecture MVI Dependency Injection etc</p><p>   </p>    <p align="center"><img src="https://img.shields.io/badge/build-passing-brighgreeb" alt="shields"><img src="https://img.shields.io/badge/licence-GPL--3.0-orange" alt="shields"></p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Preview:</h2>
 
-<video src="[https://github.com/chiragthummar/GeminiAIJetpackCompose/blob/master/video.mp4](https://github.com/chiragthummar/GeminiAIJetpackCompose/blob/master/video.mp4)" alt="project-screenshot" width="200" height="500/"> 
+
+https://github.com/chiragthummar/GeminiAIJetpackCompose/assets/6572475/314d08ab-760f-4e58-8816-aa0f50ce0a09
+
+
 
   
 <h2>🧐 Features</h2>
